@@ -1,3 +1,4 @@
+first commit
 # MCIS6273 FALL 2025 Data Mining
 
 ## Homeworks
