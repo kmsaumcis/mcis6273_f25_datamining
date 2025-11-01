@@ -229,9 +229,8 @@ there are too many numbers!
   You will have a heatmap that looks something like this:
 
 
-  <center>
   ![](./cluster_heatmap.png)
-  </center>
+
 
 
   Notice the data in this heatmap is random, so **your**
